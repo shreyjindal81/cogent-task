@@ -1,0 +1,9 @@
+qid,hostname,ip,last_seen,os,owner
+Q-A-001,web-01.acme.local,10.0.1.10,2025-08-25T10:15:00Z,Ubuntu 22.04,alice@acme.com
+Q-A-002,db-01.acme.local,10.0.1.20,2025-08-28T02:05:00Z,Ubuntu 20.04,bob@acme.com
+Q-A-003,win-01.acme.local,10.0.2.10,2025-08-22T18:45:00Z,Windows Server 2019,carol@acme.com
+Q-A-004,eng-ci-01.acme.local,10.0.3.50,2025-08-29T12:30:00Z,Ubuntu 22.04,devops@acme.com
+Q-A-005,hr-app-01.acme.local,10.0.4.10,2025-08-18T09:00:00Z,Ubuntu 18.04,hr-owner@acme.com
+Q-A-006,finance-core-01.acme.local,10.0.5.10,2025-08-29T21:10:00Z,Windows Server 2022,finops@acme.com
+Q-A-007,sales-portal-01.acme.local,10.0.6.10,2025-08-27T07:25:00Z,Ubuntu 22.04,salesit@acme.com
+Q-A-008,shared-cache-01.acme.local,10.0.7.10,2025-08-23T11:40:00Z,Ubuntu 22.04,platform@acme.com

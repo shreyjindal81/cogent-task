@@ -1,0 +1,11 @@
+scanner_vuln_id,hostname,ip,cve,severity,detected_at,resolved_at
+Q-V-1001,web-01.acme.local,10.0.1.10,CVE-2024-12345,4,2025-08-24T08:00:00Z,
+Q-V-1002,db-01.acme.local,10.0.1.20,CVE-2023-99999,5,2025-08-27T10:00:00Z,
+Q-V-1003,win-01.acme.local,10.0.2.10,CVE-2022-5678,3,2025-08-20T06:00:00Z,2025-08-28T13:00:00Z
+Q-V-1004,eng-ci-01.acme.local,10.0.3.50,CVE-2025-11111,4,2025-08-29T10:30:00Z,
+Q-V-1005,hr-app-01.acme.local,10.0.4.10,CVE-2020-1350,5,2025-08-10T12:00:00Z,
+Q-V-1006,finance-core-01.acme.local,10.0.5.10,CVE-2025-22222,5,2025-08-29T20:50:00Z,
+Q-V-1007,sales-portal-01.acme.local,10.0.6.10,CVE-2021-34527,4,2025-08-26T07:20:00Z,
+Q-V-1008,shared-cache-01.acme.local,10.0.7.10,CVE-2024-88888,2,2025-08-22T09:45:00Z,
+Q-V-1009,db-01.acme.local,10.0.1.20,CVE-2024-12345,4,2025-08-28T11:15:00Z,
+Q-V-1010,finance-core-01.acme.local,10.0.5.10,CVE-2023-44444,3,2025-08-25T19:00:00Z,2025-08-29T04:00:00Z
